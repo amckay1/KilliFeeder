@@ -1,0 +1,21 @@
+﻿Description,CatNumber,ManufacturerCatNum,EstCost,NumPerDevice,Estimated ExtendedCost,Notes,Vendor,
+RES SMD 100K OHM 1% 1/8W 0805,311-100KCRCT-ND,RC0805FR-07100KL,0.0186,1,0.0186,,DigiKey,
+RES 10K OHM 5% 1/8W 0805,RMCF0805JT10K0CT-ND,RMCF0805JT10K0,0.0067,1,0.0067,,DigiKey,
+RES SMD 1K OHM 5% 1/8W 0805,311-1.0KARCT-ND,RC0805JR-071KL,0.0145,1,0.0145,,DigiKey,
+CAP CER 10UF 10V X5R 0805,1276-6456-1-ND,CL21A106KPFNNNG,0.0425,1,0.0425,,DigiKey,
+CAP CER 0.1UF 50V Y5V 0805,311-1361-1-ND,CC0805ZRY5V9BB104,0.044,1,0.044,,DigiKey,
+IC PWR RELAY 7NPN 1:1 16SOIC,296-1368-1-ND,ULN2003ADR,0.4104,1,0.4104,,DigiKey,
+CAP ALUM 470UF 20% 16V RADIAL,1189-1859-ND,16ZLH470MEFC8X11.5,0.1733,1,0.1733,,DigiKey,
+TIMESETL 5pcs DC 5V Stepper Motor 28BYJ-48 + 5pcs ULN2003 Driver Board + 40pcs Male Female Jumper Wire Cable for Arduino Raspberry PI,B077YGWRHK,28BYJ-48,2.198,1,2.198,,Amazon,https://www.amazon.com/TIMESETL-Stepper-28BYJ-48-ULN2003-Raspberry/dp/B077YGWRHK/ref=sr_1_1?keywords=TIMESETL+5pcs+DC+5V+Stepper+Motor+28BYJ-48+%2B+5pcs+ULN2003+Driver+Board+%2B+40pcs+Male+Female+Jumper+Wire+Cable+for+Arduino+Raspberry+PI&qid=1553020083&s=electronics&sr=1-1-catcorr
+"Connector Header Through Hole 5 position 0.098"" (2.50mm)",455-2270-ND,"B5B-XH-A(LF)(SN)	",0.1644,1,0.1644,"correct pitch, slightly tight spacing (ideal is 2.54mm)",DigiKey,
+100pcs 15cm JST XH2.54-2P 2.54mm Pitch 2 Pin Connectors Kit Cable Plug Header Expansion Wire,B01G0HBZT6,,0.2499,1,0.2499,,Amazon,https://www.amazon.com/gp/product/B01G0HBZT6/ref=oh_aui_search_asin_title?ie=UTF8&psc=1
+"Sackorange 10 pcs 1 x 3.7V Battery Holder,18650 Battery Storage Case Plastic Box Holder Leads With 1 Slots for 6"" Wire Leads (10 pcs 1x18650)",B071JBRYF3,4330196205,0.679,1,0.779,,Amazon,https://www.amazon.com/gp/product/B071JBRYF3/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+"3D Solutech Natural Clear 1.75mm 3D Printer PLA Filament, Dimensional Accuracy +/- 0.03 mm, 2.2 LBS (1.0KG)",B00MB3CV6K,ST175CLPLA,0.01799,15,0.26985,"cost per g, should be 15 g per device",Amazon,
+"Acrylic at 0.066"" thickness",B01DYG13CU,S1-1212.060-6,0.03471,13.5,0.468585,"1/16 12"" x 12"" sheet is 8.99, estimated 13.5 square inches necessary per device",Amazon,https://www.amazon.com/dp/B01DYG13CU/_encoding=UTF8?colid=JT7WQ53K2IT5&coliid=I35FUZDELPYD0E
+"#6-32 Machine Screw, Nylon, 5/8"" L, 50 PK",4DEX2,010632P062,0.0594,3,0.1782,,Grainger,https://www.grainger.com/product/GRAINGER-APPROVED-6-32-Machine-Screw-4DEX2
+"#6-32 Machine Screw Nut, Plain Finish, Not Graded Nylon, Right Hand, PK25",4AGJ1,0400632HN,0.142,3,0.426,,Grainger,https://www.grainger.com/product/GRAINGER-APPROVED-6-32-Machine-Screw-Nut-4AGJ1
+Uxcell a13081500ux0353 20 Piece 50-100K Ohm Photoresistor Photo Resistors Light-Dependent Resistance,B00H4ZSGXC,a13081500ux0353,0.259,1,0.259,Uxcell a13081500ux0353 20 Piece 50-100K Ohm Photoresistor Photo Resistors Light-Dependent Resistance,Amazon,https://www.amazon.com/gp/product/B00H4ZSGXC/ref=oh_aui_search_asin_title?ie=UTF8&psc=1
+LOLIN D1 mini V3.1.0 - WEMOS WIFI Internet of Things development board based ESP8266 4MB MicroPython Nodemcu Arduino Compatible,,,3.8485,1,3.8485,"These shift around, need to find",Aliexpress,
+Chanzon 100 pcs 5mm Green LED Diode Lights (Clear Round Transparent DC 3V 20mA) Super Bright Lighting Bulb Lamps Electronics Components Light Emitting Diodes,B01AUI4VVA,100F5T-YT-WH-GR,0.0663,1,0.0663,,Amazon,https://www.amazon.com/gp/product/B01AUI4VVA/ref=oh_aui_search_asin_title?ie=UTF8&psc=1
+Custom PBC,,,2.72,1,2.72,cost is 108.80 per 40 boards,OSH Park,
+"EBL 18650 Battery 3.7V 3000mAh Performance Li-ion Rechargeable Batteries with Stable Storage Boxes, 6 Packs",,B074M27D58,2.998333333,1,2.998333333,"could not find on amazon anymore, can swap for similar 18650 battery",Amazon,

@@ -1,0 +1,4 @@
+max_device_sleep_sec=5400
+user_email=andrew.s.mckay@gmail.com
+pi_server=171.65.16.106
+feeding_threshold_sec=1200

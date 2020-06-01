@@ -1,0 +1,6 @@
+[MySQL]
+mysqlpass = "killim310"
+dbname = "KilliFeeder"
+orderstb = "orders"
+
+# [PackagesNeeded]

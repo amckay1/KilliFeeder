@@ -1,0 +1,14 @@
+[Unit]
+Description= pulling sqlite db from watchman aws server
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=always
+RestartSec=1
+ExecStart=/usr/local/bin/julia /home/pi/KilliFeeder/Software/LocalServer/setup_scripts/pulldb.jl
+StartLimitIntervalSec=0
+User=pi
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,13 @@
+[Unit]
+Description= syncing db.sqlite to rpi3 
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=always
+RestartSec=1
+ExecStart=/usr/local/bin/julia /home/ubuntu/KilliFeeder/Software/RemoteServer/sqlitedbsync.jl
+User=ubuntu
+
+[Install]
+WantedBy=multi-user.target

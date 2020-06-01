@@ -1,0 +1,13 @@
+[Unit]
+Description= Subscribing to checking in feeders
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=always
+RestartSec=1
+ExecStart=/usr/bin/python3 /home/ubuntu/KilliFeeder/Software/RemoteServer/sub.py
+User=ubuntu
+
+[Install]
+WantedBy=multi-user.target

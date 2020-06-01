@@ -1,0 +1,14 @@
+[Unit]
+Description=Time Publishing and Order Delivery
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=always
+RestartSec=1
+ExecStart=/usr/bin/python3 /home/pi/KilliFeeder/Software/LocalServer/utils/pub.py
+StartLimitIntervalSec=0
+User=pi
+
+[Install]
+WantedBy=multi-user.target

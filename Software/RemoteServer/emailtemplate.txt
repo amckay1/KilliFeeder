@@ -1,0 +1,15 @@
+EHLO www.KilliFeeder.com
+AUTH LOGIN
+QUtJQUk0Nlg0TFVBNjNOSjI2VFE=
+QW16eHpHc2MxUnRyYm9VbVFPN1EwUUQrOGJNQWxYT3FSWG5WWnRINHFlNmk=
+MAIL FROM: KilliFeeder.sysmon@gmail.com
+RCPT TO: andrew.s.mckay@gmail.com
+DATA
+From: KilliFeeder.sysmon@gmail.com
+To: andrew.s.mckay@gmail.com
+Subject: Amazon SES SMTP Test
+
+This message was sent using the Amazon SES SMTP interface.
+.
+QUIT
+
